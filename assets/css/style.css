@@ -18,7 +18,10 @@
     height: 300px;
     width: 300px;
 }
-.min-h-100{
+.bg-color{
+    background-color: aqua;
+}
+.h-100{
     min-height: 100vh;
 }
 .pos-absolute{
